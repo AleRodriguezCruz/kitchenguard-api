@@ -1,0 +1,15 @@
+{
+  "name": "kitchenguard-api",
+  "version": "1.0.0",
+  "description": "API para KitchenGuard - Monitoreo de cocina",
+  "main": "index.js",
+  "scripts": {
+    "start": "vercel dev"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.39.0"
+  },
+  "devDependencies": {
+    "vercel": "^32.0.0"
+  }
+}
